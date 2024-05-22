@@ -1,0 +1,6 @@
+print("*************")
+print("Personal info")
+print("*************")
+Name = input ("Enter your name : ")
+Age = input ("Enter your age : ")
+print("Hai",Name,"your age is ",Age)
